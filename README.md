@@ -10,6 +10,7 @@ This project was wholly vibe-coded. Some features may not work as expected. Publ
 
 ## Highlights
 
+- Notifications
 - Zero-cloud: events stored locally in a small SQLite database (`~/.local/share/calendar_pyagenda/calendar.db`).
 - AI event creation (`cal-ai`): Paste a whole meeting invitation email (raw text) and it extracts the key details (title, date/time, duration, description, location, recurrence, custom notifications).
 - Smart notifications: Background daemon (`cal-notify`) sends progressive reminders (month, week, day, hour, now) without a full system tray resident app.
