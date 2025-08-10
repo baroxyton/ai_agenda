@@ -1,0 +1,7 @@
+tkcalendar==1.6.1
+python-dateutil==2.9.0.post0
+icalendar==5.0.12
+notify2==0.3.1
+dbus-python==1.3.2
+tzlocal==5.2
+openai>=1.0.0,<2
